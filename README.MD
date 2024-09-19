@@ -1,0 +1,1 @@
+This is my second project in the odin project foundations course, a landing page!
